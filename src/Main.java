@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Leeftijd: 33");
         System.out.println("Woonplaats: Amersfoort");
         System.out.println("Hobby's: Gamen, Lezen, Modelbouw, Gitaar spelen");
+        System.out.println("Nu bezig met Data Management cursus");
     }
 }
